@@ -1,0 +1,3 @@
+// ...existing code...
+
+// This file is disabled. Use main.tsx for rendering.

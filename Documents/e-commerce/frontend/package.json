@@ -1,0 +1,50 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://sa23515193-hasshin.github.io/e-commerce",
+  "scripts": {
+    "test": "react-scripts test",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "module": "^1.2.5",
+    "mongoose": "^8.18.3",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1",
+    "react-router-dom": "^7.9.3",
+    "render": "^0.1.4",
+    "stack": "^0.1.0"
+  },
+  "devDependencies": {
+    "@types/axios": "^0.9.36",
+    "@types/react": "^19.1.15",
+    "@types/react-dom": "^19.1.9",
+    "ajv": "^6.12.6",
+    "ajv-keywords": "^3.5.2",
+    "typescript": "^5.9.2"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
